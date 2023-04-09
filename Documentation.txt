@@ -1,0 +1,3 @@
+first 32 bits are an input number
+bit 33: A register write
+bit 34: B register write
