@@ -1,3 +1,25 @@
 first 32 bits are an input number
 bit 33: A register write
 bit 34: B register write
+bit 35:
+bit 36:
+bit 37:
+bit 38:
+bit 39:
+bit 40:
+bit 41:
+bit 42:
+bit 43:
+bit 44:
+bit 45:
+bit 46:
+bit 47:
+bit 48:
+bit 49:
+bit 50:
+bit 51:
+bit 52:
+bit 53:
+bit 54:
+bit 55:
+bit 56:
