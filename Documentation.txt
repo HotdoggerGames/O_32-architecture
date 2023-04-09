@@ -1,25 +1,18 @@
 first 32 bits are an input number
 bit 33: A register write
 bit 34: B register write
-bit 35:
-bit 36:
-bit 37:
-bit 38:
-bit 39:
-bit 40:
-bit 41:
-bit 42:
-bit 43:
-bit 44:
-bit 45:
-bit 46:
-bit 47:
-bit 48:
-bit 49:
-bit 50:
-bit 51:
-bit 52:
-bit 53:
-bit 54:
-bit 55:
-bit 56:
+bit 35-7:ALU select
+bit 38:insta load program counter
+bit 39:input number to bus
+bit 40:ALU output to bus
+bit 41:ALU >=< load program counter
+bit 42-3:Graphics Select
+bit 44:Graphics Out
+bit 45:Secondary ROM Input
+bit 46:Secondary ROM Location
+bit 47-8:RAM Sel
+bit 49:RAM Amount
+bit 50:Extensions Input
+bit 51:Extensions Output
+bit 52:PC Speaker(on/off)
+bit 53-6:Non-Standard bits
